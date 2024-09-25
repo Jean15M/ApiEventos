@@ -1,0 +1,5 @@
+insert into persona(cedula,nombre,apellido,telefono,direccion,correo,fecha_nacimiento) values ('0107535445','Sebastian','Medina','0999743197','Ricaurte','sebmedi27@gmail.com','2003-07-15');
+insert into persona(cedula,nombre,apellido,telefono,direccion,correo,fecha_nacimiento) values ('0123456789','Juana','Mendieta','0999743197','Ricaurte','sebmedi27@gmail.com','2003-07-15');
+insert into persona(cedula,nombre,apellido,telefono,direccion,correo,fecha_nacimiento) values ('0107577445','Luis','Espinoza','0999743197','Ricaurte','sebmedi27@gmail.com','1995-07-15');
+insert into persona(cedula,nombre,apellido,telefono,direccion,correo,fecha_nacimiento) values ('0123839393','Juan','Perez','0999909899','Ricaurte','sebmedi27@gmail.com','1997-07-15');
+insert into persona(cedula,nombre,apellido,telefono,direccion,correo,fecha_nacimiento) values ('0123456789','Ricardo','Narvaez','0999743197','Ricaurte','sebmedi27@gmail.com','2003-07-15');
